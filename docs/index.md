@@ -4,7 +4,6 @@
         <meta name="viewport" content="width=device-width">
   </head>
   <body>
-    <object data="quaderno.pdf" type="application/pdf" style="min-height:100vh;width:100%">
-    </object>
+    <object data="quaderno.pdf" type="application/pdf" style="min-height:100vh;width:100%"></object>
   </body>
 </html>
